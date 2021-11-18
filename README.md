@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/370368563.svg)](https://zenodo.org/badge/latestdoi/370368563)
 
-# ***Stop detection algorithm with Whale GPS tracking***
+# ***Whale GPS tracking***
 
 This repository is part of the Medium post: https://towardsdatascience.com/stop-detection-in-blue-whales-gps-tracking-movingpandas-0-6-55a4b893a592
 
